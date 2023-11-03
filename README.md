@@ -1,8 +1,12 @@
+## Matthew Atkins
+
 <p align="center">
-  <br>
-    <samp>
-      Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/x1234">Matthew</a></b>.
-      <br>  I'm an 18-year-old frontend developer making useless websites and other applications. <br>
-    </samp>
-    <img src="https://thumbs.gfycat.com/SerpentineFreshIrishredandwhitesetter-size_restricted.gif" width="200"/>
+  <img src="https://img.shields.io/badge/last%20major%20release-oct.%2028%202004-important" />
+  <img src="https://img.shields.io/badge/unminified%20size-6%20feet%206%20inches-informational" />
+  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
+  <img src="https://img.shields.io/badge/code%20quality-A%20for%20effort-success" />
 </p>
+
+### 📫 How to reach me:
+
+- Twitter: [@darkheart](https://twitter.com/darkheart)
