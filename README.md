@@ -1,4 +1,4 @@
-## Matthew Atkins
+## 👋 Matthew Atkins
 
 <p align="center">
   <img src="https://img.shields.io/badge/last%20major%20release-oct.%2028%202004-important" />
@@ -10,5 +10,5 @@
 
 - Twitter: [@darkheart](https://twitter.com/darkheart)
 
-#### Stats:
+### 💻 Stats:
 [![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
