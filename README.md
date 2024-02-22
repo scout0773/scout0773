@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 
-- Twitter: [@avalanches](https://twitter.com/avalanches)
+- Twitter: [@scouty](https://twitter.com/scouty)
 
 ### 💻 Stats:
 [![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
