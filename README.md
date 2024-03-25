@@ -1,15 +1,37 @@
-## 👋 Matthew Atkins
+<div align="center">
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/welcome.gif" alt="Welcome" align="center">
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/last%20major%20release-oct.%2028%202004-important" />
-  <img src="https://img.shields.io/badge/unminified%20size-5%20feet%2010%20inches-informational" />
-  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
-</p>
+<div align="center">
+to my GitHub profile. I cannot code to save my life but I try anyway.
+</div>
 
-### 📫 How to reach me:
+<hr>
 
-- Twitter: [@scouty](https://twitter.com/scouty)
-- XMPP: matthew@paranoid.network
+<div align="center">
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/projects.gif" alt="Projects" align="center">
 
-### 💻 Stats:
-[![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
+<div align="center">
+Keybase - Decode PGP keys quickly
+<br>
+Anagram Solver - Meant for the iMessage game "Anagrams"
+<br>
+Snusbase Twitter - Quickly find the email connected to a Twitter account via the 2023 Twitter DB
+<br>
+Vanity Checker - Discord checker for vanity URLs
+</div>
+</div>
+
+<hr>
+
+<div align="center">
+<div>
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/socials.gif" alt="Socials" align="center">
+</div>
+
+<div align="center">
+Twitter: [@avalanches](https://twitter.com/avalanches)
+<br>
+XMPP: matthew@paranoid.network
+</div>
+</div>
