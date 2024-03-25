@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/scout0773/scout0773/main/img/welcome.gif" alt="Welcome" align="center">
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/welcome.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@ to my GitHub profile. I cannot code to save my life but I try anyway.
 <hr>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/scout0773/scout0773/main/img/projects.gif" alt="Projects" align="center">
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/projects.gif" alt="Projects" align="center">
 
 <div align="center">
 Keybase - Decode PGP keys quickly
@@ -26,7 +26,7 @@ Vanity Checker - Discord checker for vanity URLs
 
 <div align="center">
 <div>
-<img src="https://raw.githubusercontent.com/scout0773/scout0773/main/img/socials.gif" alt="Socials" align="center">
+<img src="https://github.com/scout0773/scout0773/raw/scout0773/img/socials.gif" alt="Socials" align="center">
 </div>
 
 <div align="center">
