@@ -13,3 +13,7 @@
 
 ### 💻 Stats:
 [![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31csi5k5wvf2s7p655nuxril5fwe&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=8e4eb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
