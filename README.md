@@ -8,7 +8,7 @@
 
 ### 📫 How to reach me:
 
-- Twitter: [@scouty](https://twitter.com/scouty)
+- Twitter: [@webdevs](https://twitter.com/webdevs)
 - XMPP: matthew@paranoid.network
 
 ### 💻 Stats:
