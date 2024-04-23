@@ -1,19 +1,43 @@
-## 👋 Matthew Atkins
+## 👋 About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/last%20major%20release-oct.%2028%202004-important" />
-  <img src="https://img.shields.io/badge/unminified%20size-5%20feet%2010%20inches-informational" />
-  <img src="https://img.shields.io/badge/vulnerabilities-high-critical" />
-</p>
+Front-end web developer, that's about it.
 
-### 📫 How to reach me:
+## 👓 Current Focus
 
-- Twitter: [@webdevs](https://twitter.com/webdevs)
-- XMPP: matthew@paranoid.network
+<details>
+<summary><strong>Programming Languages</strong></summary>
 
-### 💻 Stats:
+- Python <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="20" height="20"/>
+- JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
+
+</details>
+
+<details>
+<summary><strong>Tools and Platforms</strong></summary>
+
+- Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/>
+
+</details>
+
+<details>
+<summary><strong>Databases</strong></summary>
+
+- MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20"/>
+
+</details>
+
+<details>
+<summary><strong>Automation</strong></summary>
+
+- Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
+
+</details>
+
+## 💻 Stats:
 [![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31csi5k5wvf2s7p655nuxril5fwe&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=8e4eb1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+## 📞 Contact
 
-<img align="left" height="200" src="https://4f.to/img/2022/9/18/221645/large.png"  />
+<a href="https://www.linkedin.com/in/pity" title="Connect on LinkedIn"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIn" width="64" height="64"></a>
+<a href="mailto:mattifex@gmail.com" title="Send an email"><img src="https://i.imgur.com/nEeV5RK.png" alt="Gmail" width="64" height="64"></a>
+<a href="https://twitter.com/avalanches" title="Write me on Twitter"><img src="https://static-00.iconduck.com/assets.00/twitter-icon-512x512-7o66iwws.png" alt="Twitter" width="64" height="64"></a>
