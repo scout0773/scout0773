@@ -1,43 +1,38 @@
-## 👋 About
-
-Front-end web developer, that's about it.
-
-## 👓 Current Focus
-
-<details>
-<summary><strong>Programming Languages</strong></summary>
-
-- Python <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="20" height="20"/>
-- JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/>
-
-</details>
-
-<details>
-<summary><strong>Tools and Platforms</strong></summary>
-
-- Git <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="20" height="20"/>
-
-</details>
-
-<details>
-<summary><strong>Databases</strong></summary>
-
-- MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="20" height="20"/>
-
-</details>
-
-<details>
-<summary><strong>Automation</strong></summary>
-
-- Selenium <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="20" height="20"/>
-
-</details>
-
-## 💻 Stats:
-[![wakatime](https://wakatime.com/badge/user/018b934c-1ee5-4709-82f7-ddd59bae8d72.svg)](https://wakatime.com/@018b934c-1ee5-4709-82f7-ddd59bae8d72)
-
-## 📞 Contact
-
-<a href="https://www.linkedin.com/in/pity" title="Connect on LinkedIn"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" alt="LinkedIn" width="64" height="64"></a>
-<a href="mailto:mattifex@gmail.com" title="Send an email"><img src="https://i.imgur.com/nEeV5RK.png" alt="Gmail" width="64" height="64"></a>
-<a href="https://twitter.com/avalanches" title="Write me on Twitter"><img src="https://static-00.iconduck.com/assets.00/twitter-icon-512x512-7o66iwws.png" alt="Twitter" width="64" height="64"></a>
+<table>
+  <tr>
+    <td  width="400">
+      <img src="dore.png" width="400" alt="Inferno Canto VIII - Gustave Doré">
+    </td>
+    <td valign="top">
+      <h1>Matthew Atkins</h1>
+      <p>Frontend web developer from Mount Airy, North Carolina.</p>
+      <p>Focused mainly on JavaScript and Python with interests in web development, databases, Web3, automation, and data mining.</p>
+      <h2>Areas of Interest</h2>
+      <ul>
+        <li>Frontend web development</li>
+        <li>JavaScript applications and UI design</li>
+        <li>Python scripting and automation</li>
+        <li>Databases and backend systems</li>
+        <li>Password hashing and authentication systems</li>
+      </ul>
+      <h2>Technologies</h2>
+      <ul>
+        <li>Languages: JavaScript, Python</li>
+        <li>Frontend: HTML, CSS, React, Tailwind</li>
+        <li>Backend: Node.js, Flask, FastAPI</li>
+        <li>Databases: SQL / database fundamentals</li>
+      </ul>
+      <h2>Goals</h2>
+      <ul>
+        <li>Build full-stack applications</li>
+        <li>Learn low-level web infrastructure</li>
+        <li>Improve security and cryptography knowledge</li>
+      </ul>
+      <h2>Contact</h2>
+      <ul>
+        <li>X: <a href="https://www.x.com/avalanches/">@avalanches</a></li>
+        <li>Steam: <a href="https://steamcommunity.com/id/oakdale">@oakdale</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
